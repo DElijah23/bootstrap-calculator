@@ -5,3 +5,7 @@ You can demo it here: http://dev.mensfeld.pl/bootstrap-calculator/index.html
 
 
 Demo is quite right
+
+
+Any license details ?
+
